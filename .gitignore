@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Compiled Output & Build Cache
+dist/
+*.tsbuildinfo
+
+# Test Coverage
+coverage/
+
+# Environment Variables
+config/
+.env
+.env.*
+
+# Logs & Debug
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
